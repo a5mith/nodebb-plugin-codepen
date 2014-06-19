@@ -1,0 +1,14 @@
+{
+	"id": "nodebb-plugin-codepen",
+	"name": "NodeBB Codepen Plugin",
+	"description": "NodeBB Plugin that allows users to embed Codepen sets inline in their posts.",
+	"url": "https://github.com/a5mith/nodebb-plugin-codepen",
+	"library": "./library.js",
+	"hooks": [
+		{ "hook": "filter:post.parse", "method": "parse", "callbacked": true }
+	],
+	"staticDirs": {
+        "css": "./static"
+    }
+
+}
