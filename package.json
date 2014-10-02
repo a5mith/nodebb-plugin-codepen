@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-codepen",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "NodeBB Codepen Plugin",
   "main": "library.js",
   "scripts": {
@@ -26,6 +26,6 @@
   },
   "readme": "",
   "readmeFilename": "README.md",
-  "_id": "nodebb-plugin-codepen@0.0.1",
-  "_from": "nodebb-plugin-codepen@~0.0.1"
+  "_id": "nodebb-plugin-codepen@0.1.0",
+  "_from": "nodebb-plugin-codepen@~0.1.0"
 }
