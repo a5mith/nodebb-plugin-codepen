@@ -8,6 +8,6 @@ This NodeBB plugin allows users to embed Codepen pages inline in their posts.
 
 ## Usage
 
-    Paste the Wordpress embed code into your post.
+    Paste the URL into your post. (Example: http://codepen.io/ashleynolan/pen/djpCG)
     ???
     Profit!
