@@ -6,7 +6,7 @@
 
 
     codepen.parse = function(postContent, callback) {
-        postContent = postContent.replace(/<a href="(?:http?:\/\/)?(codepen).io\/.+\/pen\/([\w\-_]+)">.+<\/a>/g, embed);
+        postContent = postContent.replace(/<a href="(?:http?:\/\/)?(codepen)\.io\/.+\/pen\/([\w\-_]+)">.+<\/a>/g, embed);
         callback(null, postContent);
     };
 
